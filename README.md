@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=black&hat=beanie&hatColor=red&lashes=false&lipColor=purple&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" style="margin:50px -50px" />
+  <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=purple&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" style="margin:50px -50px" />
   <br>
   <img align="top" src="https://github-readme-stats.russelldash332.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&hide=stars,issues&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
   <!--- <br> -->
