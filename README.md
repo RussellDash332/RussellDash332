@@ -7,7 +7,6 @@
 <a href="mailto:russellsaerang@gmail.com">
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<br>
 <a href="https://www.kaggle.com/russellsaerang">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
