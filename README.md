@@ -18,7 +18,7 @@
   <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
 </a>
 <a href="https://replit.com/@russellsaerang">
-  <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>
+  <img alt="Repl.it" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </a>
 <div align="center">
   <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" style="margin:50px -50px" />
