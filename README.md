@@ -1,4 +1,4 @@
-## Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+## Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RussellDash332)](https://github.com/RussellDash332)
 <a href="https://www.instagram.com/russellsaerang2702/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
