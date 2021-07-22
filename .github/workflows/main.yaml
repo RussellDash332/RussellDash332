@@ -15,7 +15,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v1
       - name: setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2.3.0
         with:
           node-version: '13.x'
       - name: cache
