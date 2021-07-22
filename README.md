@@ -1,7 +1,7 @@
-<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"><img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-<b>Last refresh: Friday, 23 July, 04:19 GMT+8</b>
+<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<b>Last refresh: Friday, 23 July, 04:21 GMT+8</b>
 
-<h4>Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h4>
+<h3>Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
 <ul>
 <li>Currently, the weather is: <b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></li>
 <li>Singapore is a hot country, it's <b>27°C</b> but it actually feels like <b>30°C</b>!</li>
@@ -12,7 +12,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
 </div>
-<h4>Reach me out 👍</h4>
+<h3>Reach me out 👍</h3>
 <p>
 <a href="https://www.instagram.com/russellsaerang2702/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
