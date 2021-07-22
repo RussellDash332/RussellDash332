@@ -1,4 +1,4 @@
-<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RussellDash332)](https://github.com/RussellDash332)</h2>
+<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332 /></h2>
 <a href="https://www.instagram.com/russellsaerang2702/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -20,7 +20,7 @@
 <a href="https://medium.com/@russellsaerang">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<--
+<!--
 <h3>Perhimpunan <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="13"/> Indonesia <img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> NUS!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pinusonline/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pinusonline!</a></p>
@@ -36,4 +36,4 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
 </div>
-<b>Last refresh: Friday, 23 July, 03:51 GMT+8</b>
+<b>Last refresh: Friday, 23 July, 03:55 GMT+8</b>
