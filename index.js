@@ -29,6 +29,7 @@ async function setWeatherInformation() {
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.feels_like_temp = Math.round(r.main.feels_like);
       DATA.city_weather = r.weather[0].description;
+      DATA.weather_icon = 'http://openweathermap.org/img/w/' + r.weather[0].icon + '.png';
       DATA.humidity = r.main.humidity;
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
