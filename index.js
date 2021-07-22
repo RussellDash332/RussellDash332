@@ -2,7 +2,7 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service');
+// const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -67,7 +67,7 @@ async function action() {
   /**
    * Get pictures
    */
-  await setInstagramPosts();
+  // await setInstagramPosts();
 
   /**
    * Generate README
@@ -77,7 +77,7 @@ async function action() {
   /**
    * Bye bye service 👋
    */
-  await puppeteerService.close();
+  // await puppeteerService.close();
 }
 
 action();
