@@ -1,0 +1,29 @@
+{
+  "name": "russelldash332",
+  "version": "1.0.0",
+  "description": "Trying out dynamic README.md for my GitHub Profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussellDash332/RussellDash332.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Russell Saerang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussellDash332/RussellDash332/issues"
+  },
+  "homepage": "https://github.com/RussellDash332/RussellDash332#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
