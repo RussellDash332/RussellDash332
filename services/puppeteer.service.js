@@ -1,8 +1,5 @@
 const puppeteer = require('puppeteer');
 class PuppeteerService {
-  browser;
-  page;
-
   async init() {
     this.browser = await puppeteer.launch({
       args: [
