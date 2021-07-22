@@ -1,4 +1,4 @@
-## Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RussellDash332)](https://github.com/RussellDash332)
+## Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RussellDash332)](https://github.com/RussellDash332)
 <a href="https://www.instagram.com/russellsaerang2702/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -19,6 +19,9 @@
 </a>
 <a href="https://replit.com/@russellsaerang">
   <img alt="Repl.it" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+</a>
+<a href="https://medium.com/@russellsaerang">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
 <div align="center">
   <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" style="margin:50px -50px" />
