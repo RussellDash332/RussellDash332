@@ -1,4 +1,19 @@
-<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332 /></h2>
+<h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"><img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
+<b>Last refresh: Friday, 23 July, 04:19 GMT+8</b>
+
+<h4>Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h4>
+<ul>
+<li>Currently, the weather is: <b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></li>
+<li>Singapore is a hot country, it's <b>27°C</b> but it actually feels like <b>30°C</b>!</li>
+<li>Today, the sun rises at <b>07:05</b> and sets at <b>19:16</b></li>
+<li>Humidity is currently at <b>88%</b></li>
+</ul>
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+</div>
+<h4>Reach me out 👍</h4>
+<p>
 <a href="https://www.instagram.com/russellsaerang2702/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -20,20 +35,8 @@
 <a href="https://medium.com/@russellsaerang">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<!--
-<h3>Perhimpunan <img src="https://image.flaticon.com/icons/svg/197/197559.svg" width="13"/> Indonesia <img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> NUS!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/pinusonline/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @pinusonline!</a></p>
--->
-<h3>Singapore's Weather 😛 (1.2897° N, 103.8501° E)</h3>
-<p>Currently, the weather is: <b> 28°C, <i>broken clouds</i></b>
-<br>Singapore is a hot country, it actually feels like it's <b>32°C</b>!
-<br>Today, the sun rises at <b>07:05</b> and sets at <b>19:16</b>.
-<br>Humidity is currently at <b>28%</b>.</p>
+</p>
+
 <div align="center">
-  <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" style="margin:50px -50px" />
-  <br>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+<img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" />
 </div>
-<b>Last refresh: Friday, 23 July, 03:55 GMT+8</b>
