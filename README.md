@@ -1,9 +1,9 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Saturday, 24 July, 00:11 GMT+8</b>
+Last refresh: <b>Saturday, 24 July, 01:16 GMT+8</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
 <ul>
-<li>Currently, the weather is: <b><i>heavy intensity rain</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></li>
+<li>Currently, the weather is: <b><i>light rain</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></li>
 <li>The temperature is <b>27°C</b> but it actually feels like <b>30°C</b>!</li>
 <li>Today, the sun rises at <b>07:05</b> and sets at <b>19:16</b></li>
 <li>Humidity is currently at <b>88%</b></li>
