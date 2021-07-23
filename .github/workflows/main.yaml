@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # every 10 minutes because I need to check if it's working
-    - cron: '*/10 * * * *'
+    # Every 2 hours will do
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
@@ -31,6 +31,13 @@ jobs:
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Commit and push new README.md
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # uses: mikeal/publish-to-github-action@master
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
