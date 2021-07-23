@@ -1,12 +1,12 @@
-name: README build
+name: Autobuild README
 
 on:
   push:
     branches:
       - main
   schedule:
-    # Every 2 hours will do
-    - cron: '0 */2 * * *'
+    # README updates every new hour
+    - cron: '0 */1 * * *' # or '@hourly'
 
 jobs:
   build:
@@ -31,9 +31,6 @@ jobs:
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
       - name: Commit and push new README.md
-        # uses: mikeal/publish-to-github-action@master
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |-
           git diff
           git config --global user.email "actions@users.noreply.github.com"
