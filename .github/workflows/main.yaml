@@ -1,9 +1,9 @@
-name: README build
+name: README autobuild
 
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */2 * * *' # every 2 hours
 
@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout
+      - name: Checkout current repository to main branch
         uses: actions/checkout@v2.3.4
-      - name: setup node
+      - name: Setup Node.js 13.x
         uses: actions/setup-node@v2.3.0
         with:
           node-version: '13.x'
-      - name: cache
+      - name: Cache dependencies and build outputs
         uses: actions/cache@v2.1.6
         with:
           path: node_modules
@@ -29,7 +29,7 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Push new README.md
+      - name: Commit and push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
