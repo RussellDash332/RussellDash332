@@ -1,10 +1,10 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-<b>Last refresh: Friday, 23 July, 17:10 GMT+8</b>
+<b>Last refresh: Friday, 23 July, 17:36 GMT+8</b>
 
 <h3>Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
 <ul>
 <li>Currently, the weather is: <b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></li>
-<li>Singapore is a hot country, it's <b>31°C</b> but it actually feels like <b>38°C</b>!</li>
+<li>Singapore is a hot country, it's <b>31°C</b> but it actually feels like <b>37°C</b>!</li>
 <li>Today, the sun rises at <b>07:05</b> and sets at <b>19:16</b></li>
 <li>Humidity is currently at <b>68%</b></li>
 </ul>
@@ -40,3 +40,5 @@
 <div align="center">
 <img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" />
 </div>
+
+Dynamic README idea by <a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a>
