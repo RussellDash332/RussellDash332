@@ -1,12 +1,12 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Monday, 2 August, 03:06 GMT+8</b>
+Last refresh: <b>Monday, 2 August, 03:36 GMT+8</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
 <ul>
 <li>Currently, the weather is: <b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></li>
 <li>The temperature is <b>26°C</b> but it actually feels like <b>27°C</b>!</li>
 <li>Today, the sun rises at <b>07:05</b> and sets at <b>19:15</b></li>
-<li>Humidity is currently at <b>88%</b></li>
+<li>Humidity is currently at <b>85%</b></li>
 </ul>
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
@@ -38,8 +38,7 @@ Last refresh: <b>Monday, 2 August, 03:06 GMT+8</b>
 </p>
 
 <div align="center">
-<img src="https://bigheads.io/svg?accessory=shades&body=chest&circleColor=blue&clothing=shirt&clothingColor=black&eyebrows=raised&eyes=wink&faceMask=false&faceMaskColor=black&facialHair=none2&graphic=react&hair=short&hairColor=white&hat=beanie&hatColor=red&lashes=false&lipColor=red&mask=true&mouth=openSmile&skinTone=light" alt="Russell Big Head" width="300" />
-<br>This README refreshes every hour using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
+This README refreshes every hour using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
 <br>Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
 <br>GitHub README Stats by <b><i><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></i></b>
 <br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
