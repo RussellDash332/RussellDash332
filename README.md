@@ -1,12 +1,12 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Friday, 13 August, 20:25 GMT+8</b>
+Last refresh: <b>Saturday, 14 August, 02:19 GMT+8</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
 <ul>
 <li>Currently, the weather is: <b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></li>
-<li>The temperature is <b>28°C</b> but it actually feels like <b>32°C</b>!</li>
+<li>The temperature is <b>26°C</b> but it actually feels like <b>26°C</b>!</li>
 <li>Today, the sun rises at <b>07:04</b> and sets at <b>19:14</b></li>
-<li>Humidity is currently at <b>81%</b></li>
+<li>Humidity is currently at <b>92%</b></li>
 </ul>
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
