@@ -2,12 +2,24 @@
 Last refresh: <b>{{refresh_date}}</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅ ({{lat}}° N, {{long}}° E)</h3>
-<ul>
-<li>Currently, the weather is: <b><i>{{city_weather}}</i></b> <img width="30" src={{weather_icon}}></li>
-<li>The temperature is <b>{{city_temperature}}°C</b> but it actually feels like <b>{{feels_like_temp}}°C</b>!</li>
-<li>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b></li>
-<li>Humidity is currently at <b>{{humidity}}%</b></li>
-</ul>
+
+<table>
+	<tr>
+		<th>Weather</th>
+		<th>Temperature</th>
+		<th>Sunrise</th>
+    <th>Sunset</th>
+    <th>Humidity</th>
+ 	</tr>
+ 	<tr style="text-align:center">
+  	<td><b><i>{{city_weather}}</i></b> <img width="30" src={{weather_icon}}></td>
+   	<td><b>{{city_temperature}}°C</b></td>
+		<td><b>{{sun_rise}}</b></td>
+    <td><b>{{sun_set}}</b></td>
+    <td><b>{{humidity}}%</b></td>
+ 	</tr>
+</table>
+
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
