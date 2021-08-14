@@ -1,7 +1,7 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Sunday, 15 August, 03:33 GMT+8</b>
+Last refresh: <b>Sunday, 15 August, 03:37 GMT+8</b>
 
-<h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅ (1.2897° N, 103.8501° E)</h3>
+<h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 
 <table>
 	<tr>
@@ -11,12 +11,12 @@ Last refresh: <b>Sunday, 15 August, 03:33 GMT+8</b>
     <th>Sunset</th>
     <th>Humidity</th>
  	</tr>
- 	<tr style="text-align:center">
-  	<td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-   	<td><b>26°C</b></td>
-		<td><b>07:04</b></td>
-    <td><b>19:13</b></td>
-    <td><b>90%</b></td>
+ 	<tr>
+  	<td style="text-align:center"><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+   	<td style="text-align:center"><b>26°C</b></td>
+		<td style="text-align:center"><b>07:04</b></td>
+    <td style="text-align:center"><b>19:13</b></td>
+    <td style="text-align:center"><b>90%</b></td>
  	</tr>
 </table>
 
