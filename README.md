@@ -1,5 +1,5 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Sunday, 15 August, 03:39 GMT+8</b>
+Last refresh: <b>Sunday, 15 August, 03:41 GMT+8</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 
@@ -11,12 +11,12 @@ Last refresh: <b>Sunday, 15 August, 03:39 GMT+8</b>
     <th>Sunset</th>
     <th>Humidity</th>
  	</tr>
- 	<tr>
-  	<td style="text-align:center"><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-   	<td style="text-align:center"><b>26°C</b></td>
-		<td style="text-align:center"><b>07:04</b></td>
-    <td style="text-align:center"><b>19:13</b></td>
-    <td style="text-align:center"><b>90%</b></td>
+ 	<tr style="text-align:center">
+  	<td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+   	<td><b>26°C</b></td>
+		<td><b>07:04</b></td>
+    <td><b>19:13</b></td>
+    <td><b>90%</b></td>
  	</tr>
 </table>
 
@@ -50,9 +50,9 @@ Last refresh: <b>Sunday, 15 August, 03:39 GMT+8</b>
 </p>
 
 <div align="center">
-This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
-<br>Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
-<br>GitHub README Stats by <b><i><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></i></b>
-<br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
-<br>Weather Info by <b><i><a href="https://openweathermap.org/api">OpenWeather</a></i></b>
+  This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
+  <br>Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
+  <br>GitHub README Stats by <b><i><a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></i></b>
+  <br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
+  <br>Weather Info by <b><i><a href="https://openweathermap.org/api">OpenWeather</a></i></b>
 </div>
