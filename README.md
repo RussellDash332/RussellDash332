@@ -1,5 +1,5 @@
 <h2>Welcome! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25 px"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" /><a href="https://github.com/RussellDash332"> <img src="https://visitor-badge.laobi.icu/badge?page_id=RussellDash332" alt="Visitors"></a></h2>
-Last refresh: <b>Monday, 23 August, 20:26 GMT+8</b>
+Last refresh: <b>Monday, 23 August, 23:34 GMT+8</b>
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 
@@ -16,13 +16,13 @@ Last refresh: <b>Monday, 23 August, 20:26 GMT+8</b>
     <td><b>28°C</b></td>
     <td><b>07:03</b></td>
     <td><b>19:11</b></td>
-    <td><b>75%</b></td>
+    <td><b>81%</b></td>
   </tr>
 </table>
 
 <div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_border=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook&langs_count=10&theme=react&hide_border=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
 </div>
 <h3>Reach me out 👍</h3>
 <p>
