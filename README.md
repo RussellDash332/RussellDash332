@@ -43,7 +43,7 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>clear sky</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;01n.png></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
     <td><b>26°C</b></td>
     <td><b>06:57</b></td>
     <td><b>19:05</b></td>
@@ -54,7 +54,7 @@
 [![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="right">
-  Last refresh: <b>Saturday, 11 September, 02:08 GMT+8</b>
+  Last refresh: <b>Saturday, 11 September, 02:09 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
