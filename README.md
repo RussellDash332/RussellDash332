@@ -55,16 +55,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>thunderstorm</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;11n.png></td>
-    <td><b>29°C</b></td>
+    <td><b><i>light rain</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
+    <td><b>25°C</b></td>
     <td><b>06:52</b></td>
-    <td><b>18:59</b></td>
-    <td><b>75%</b></td>
+    <td><b>18:58</b></td>
+    <td><b>95%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 26 September, 20:25 GMT+8</b>
+  Last refreshed: <b>Monday, 27 September, 02:18 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
