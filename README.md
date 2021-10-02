@@ -59,12 +59,12 @@
     <td><b>27°C</b></td>
     <td><b>06:50</b></td>
     <td><b>18:56</b></td>
-    <td><b>87%</b></td>
+    <td><b>86%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Saturday, 2 October, 20:24 GMT+8</b>
+  Last refreshed: <b>Sunday, 3 October, 02:18 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
