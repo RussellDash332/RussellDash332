@@ -30,7 +30,7 @@
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
   </a>
   <details>
     <summary>
@@ -56,15 +56,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>26°C</b></td>
+    <td><b>25°C</b></td>
     <td><b>06:47</b></td>
     <td><b>18:52</b></td>
-    <td><b>87%</b></td>
+    <td><b>94%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Monday, 18 October, 02:18 GMT+8</b>
+  Last refreshed: <b>Monday, 18 October, 06:33 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
