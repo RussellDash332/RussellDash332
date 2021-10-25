@@ -45,6 +45,11 @@
       <b>Recent Activity</b>
     </summary>
     <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/gluonn/etc/issues/1) in [gluonn/etc](https://github.com/gluonn/etc)
+2. 🗣 Commented on [#81](https://github.com/nus-cs2030/2122-s1/issues/81) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+3. 🗣 Commented on [#128](https://github.com/nus-cs2030/2122-s1/issues/128) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. 🗣 Commented on [#126](https://github.com/nus-cs2030/2122-s1/issues/126) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. 🗣 Commented on [#115](https://github.com/nus-cs2030/2122-s1/issues/115) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
     <!--END_SECTION:activity-->
   </details>
   <details>
@@ -76,7 +81,7 @@
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 26 October, 07:31 GMT+8</b>
+  Last refreshed: <b>Tuesday, 26 October, 07:33 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
