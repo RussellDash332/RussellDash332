@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
----
-
 <h3>Reach me out 👍</h3>
 <p>
 <a href="https://www.instagram.com/russellsaerang2702/">
@@ -78,7 +76,7 @@
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 26 October, 07:29 GMT+8</b>
+  Last refreshed: <b>Tuesday, 26 October, 07:31 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
