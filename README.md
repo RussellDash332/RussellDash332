@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
+---
+
 <h3>Reach me out 👍</h3>
 <p>
 <a href="https://www.instagram.com/russellsaerang2702/">
@@ -27,6 +29,8 @@
 </a>
 </p>
 
+---
+
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
@@ -40,11 +44,21 @@
   </details>
   <details>
     <summary>
+      <b>Recent Activity</b>
+    </summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+  </details>
+  <details>
+    <summary>
       <b>Contribution Graph</b>
     </summary>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
   </details>
 </p>
+
+---
+
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 <table>
   <tr>
@@ -55,8 +69,8 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>26°C</b></td>
+    <td><b><i>mist</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;50d.png></td>
+    <td><b>25°C</b></td>
     <td><b>06:46</b></td>
     <td><b>18:50</b></td>
     <td><b>94%</b></td>
@@ -64,7 +78,7 @@
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 26 October, 02:19 GMT+8</b>
+  Last refreshed: <b>Tuesday, 26 October, 07:29 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
