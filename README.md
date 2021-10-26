@@ -27,8 +27,6 @@
 </a>
 </p>
 
----
-
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
@@ -42,25 +40,15 @@
   </details>
   <details>
     <summary>
-      <b>Recent Activity</b>
-    </summary>
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/gluonn/etc/issues/1) in [gluonn/etc](https://github.com/gluonn/etc)
-2. 🗣 Commented on [#81](https://github.com/nus-cs2030/2122-s1/issues/81) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#128](https://github.com/nus-cs2030/2122-s1/issues/128) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#126](https://github.com/nus-cs2030/2122-s1/issues/126) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#115](https://github.com/nus-cs2030/2122-s1/issues/115) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-    <!--END_SECTION:activity-->
-  </details>
-  <details>
-    <summary>
       <b>Contribution Graph</b>
     </summary>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
   </details>
 </p>
 
----
+<h3>⚡ Recent Github Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 <table>
@@ -73,15 +61,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>28°C</b></td>
+    <td><b>29°C</b></td>
     <td><b>06:46</b></td>
     <td><b>18:50</b></td>
-    <td><b>81%</b></td>
+    <td><b>78%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 26 October, 08:54 GMT+8</b>
+  Last refreshed: <b>Tuesday, 26 October, 09:13 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
