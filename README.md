@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
+<h3>Recent Github Activity ⚡</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h3>Reach me out 👍</h3>
 <p>
 <a href="https://www.instagram.com/russellsaerang2702/">
@@ -46,15 +51,6 @@
   </details>
 </p>
 
-<h3>⚡ Recent Github Activity</h3>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/gluonn/etc/issues/1) in [gluonn/etc](https://github.com/gluonn/etc)
-2. 🗣 Commented on [#81](https://github.com/nus-cs2030/2122-s1/issues/81) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#128](https://github.com/nus-cs2030/2122-s1/issues/128) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#126](https://github.com/nus-cs2030/2122-s1/issues/126) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#115](https://github.com/nus-cs2030/2122-s1/issues/115) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-<!--END_SECTION:activity-->
-
 <h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
 <table>
   <tr>
@@ -74,7 +70,7 @@
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 26 October, 09:13 GMT+8</b>
+  Last refreshed: <b>Tuesday, 26 October, 09:23 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
