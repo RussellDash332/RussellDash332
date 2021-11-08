@@ -5,11 +5,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/nus-cs2030/2122-s1/issues/202) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. 🗣 Commented on [#198](https://github.com/nus-cs2030/2122-s1/issues/198) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#197](https://github.com/nus-cs2030/2122-s1/issues/197) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#195](https://github.com/nus-cs2030/2122-s1/issues/195) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#188](https://github.com/nus-cs2030/2122-s1/issues/188) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
@@ -70,12 +65,12 @@
     <td><b>27°C</b></td>
     <td><b>06:46</b></td>
     <td><b>18:50</b></td>
-    <td><b>90%</b></td>
+    <td><b>89%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Monday, 8 November, 20:27 GMT+8</b>
+  Last refreshed: <b>Tuesday, 9 November, 02:19 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
