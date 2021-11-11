@@ -5,11 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/nus-cs2030/2122-s1/issues/227) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. 🗣 Commented on [#224](https://github.com/nus-cs2030/2122-s1/issues/224) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+1. 🗣 Commented on [#228](https://github.com/nus-cs2030/2122-s1/issues/228) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+2. 🗣 Commented on [#227](https://github.com/nus-cs2030/2122-s1/issues/227) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 3. 🗣 Commented on [#224](https://github.com/nus-cs2030/2122-s1/issues/224) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 4. 🗣 Commented on [#224](https://github.com/nus-cs2030/2122-s1/issues/224) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#223](https://github.com/nus-cs2030/2122-s1/issues/223) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. 🗣 Commented on [#224](https://github.com/nus-cs2030/2122-s1/issues/224) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
