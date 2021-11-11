@@ -8,8 +8,8 @@
 1. 🗣 Commented on [#236](https://github.com/nus-cs2030/2122-s1/issues/236) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 2. 🗣 Commented on [#236](https://github.com/nus-cs2030/2122-s1/issues/236) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 3. 🗣 Commented on [#236](https://github.com/nus-cs2030/2122-s1/issues/236) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#235](https://github.com/nus-cs2030/2122-s1/issues/235) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#231](https://github.com/nus-cs2030/2122-s1/issues/231) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. 🗣 Commented on [#236](https://github.com/nus-cs2030/2122-s1/issues/236) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. 🗣 Commented on [#235](https://github.com/nus-cs2030/2122-s1/issues/235) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
