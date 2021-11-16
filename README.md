@@ -5,11 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/nus-cs2030/2122-s1/issues/268) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. 🗣 Commented on [#267](https://github.com/nus-cs2030/2122-s1/issues/267) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#267](https://github.com/nus-cs2030/2122-s1/issues/267) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. 🗣 Commented on [#266](https://github.com/nus-cs2030/2122-s1/issues/266) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#266](https://github.com/nus-cs2030/2122-s1/issues/266) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+1. 🎉 Merged PR [#6](https://github.com/RussellDash332/CS3244-Twemoji/pull/6) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+2. 🎉 Merged PR [#2](https://github.com/RussellDash332/CS3244-Twemoji/pull/2) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+3. 🎉 Merged PR [#5](https://github.com/RussellDash332/CS3244-Twemoji/pull/5) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+4. 🎉 Merged PR [#4](https://github.com/RussellDash332/CS3244-Twemoji/pull/4) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+5. 🎉 Merged PR [#3](https://github.com/RussellDash332/CS3244-Twemoji/pull/3) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
