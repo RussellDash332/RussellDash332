@@ -5,11 +5,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/RussellDash332/CS3244-Twemoji/pull/6) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-2. 🎉 Merged PR [#2](https://github.com/RussellDash332/CS3244-Twemoji/pull/2) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-3. 🎉 Merged PR [#5](https://github.com/RussellDash332/CS3244-Twemoji/pull/5) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-4. 🎉 Merged PR [#4](https://github.com/RussellDash332/CS3244-Twemoji/pull/4) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-5. 🎉 Merged PR [#3](https://github.com/RussellDash332/CS3244-Twemoji/pull/3) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>28°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+    <td><b>29°C</b></td>
     <td><b>06:47</b></td>
     <td><b>18:51</b></td>
-    <td><b>84%</b></td>
+    <td><b>79%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 17 November, 02:18 GMT+8</b>
+  Last refreshed: <b>Wednesday, 17 November, 08:55 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
