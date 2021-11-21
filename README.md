@@ -5,6 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#310](https://github.com/nus-cs2030/2122-s1/issues/310) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+2. 🗣 Commented on [#312](https://github.com/nus-cs2030/2122-s1/issues/312) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+3. 🗣 Commented on [#310](https://github.com/nus-cs2030/2122-s1/issues/310) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. 🗣 Commented on [#170](https://github.com/nus-cs2030/2122-s1/issues/170) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. 🗣 Commented on [#303](https://github.com/nus-cs2030/2122-s1/issues/303) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
