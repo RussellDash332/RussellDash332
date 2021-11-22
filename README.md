@@ -5,11 +5,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. ❗️ Opened issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. 🗣 Commented on [#333](https://github.com/nus-cs2030/2122-s1/issues/333) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. ❗️ Opened issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
-5. 💪 Opened PR [#9](https://github.com/RussellDash332/CS3244-Twemoji/pull/9) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
@@ -67,15 +62,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>28°C</b></td>
+    <td><b>26°C</b></td>
     <td><b>06:49</b></td>
     <td><b>18:52</b></td>
-    <td><b>83%</b></td>
+    <td><b>89%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Monday, 22 November, 20:28 GMT+8</b>
+  Last refreshed: <b>Tuesday, 23 November, 02:20 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
