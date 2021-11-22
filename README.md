@@ -5,11 +5,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
-2. 💪 Opened PR [#9](https://github.com/RussellDash332/CS3244-Twemoji/pull/9) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-3. 💪 Opened PR [#8](https://github.com/RussellDash332/CS3244-Twemoji/pull/8) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-4. 🗣 Commented on [#310](https://github.com/nus-cs2030/2122-s1/issues/310) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. 🗣 Commented on [#312](https://github.com/nus-cs2030/2122-s1/issues/312) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>light rain</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10n.png></td>
-    <td><b>25°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+    <td><b>26°C</b></td>
     <td><b>06:49</b></td>
     <td><b>18:52</b></td>
-    <td><b>96%</b></td>
+    <td><b>92%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Monday, 22 November, 02:19 GMT+8</b>
+  Last refreshed: <b>Monday, 22 November, 08:57 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
