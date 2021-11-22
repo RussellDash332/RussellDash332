@@ -5,11 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. 🗣 Commented on [#333](https://github.com/nus-cs2030/2122-s1/issues/333) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. ❗️ Opened issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
-4. 💪 Opened PR [#9](https://github.com/RussellDash332/CS3244-Twemoji/pull/9) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
-5. 💪 Opened PR [#8](https://github.com/RussellDash332/CS3244-Twemoji/pull/8) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+1. 🗣 Commented on [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+2. ❗️ Opened issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+3. 🗣 Commented on [#333](https://github.com/nus-cs2030/2122-s1/issues/333) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. ❗️ Opened issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+5. 💪 Opened PR [#9](https://github.com/RussellDash332/CS3244-Twemoji/pull/9) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
