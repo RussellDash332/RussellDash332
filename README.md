@@ -5,6 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#333](https://github.com/nus-cs2030/2122-s1/issues/333) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+2. ❗️ Opened issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+3. 💪 Opened PR [#9](https://github.com/RussellDash332/CS3244-Twemoji/pull/9) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+4. 💪 Opened PR [#8](https://github.com/RussellDash332/CS3244-Twemoji/pull/8) in [RussellDash332/CS3244-Twemoji](https://github.com/RussellDash332/CS3244-Twemoji)
+5. 🗣 Commented on [#310](https://github.com/nus-cs2030/2122-s1/issues/310) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
