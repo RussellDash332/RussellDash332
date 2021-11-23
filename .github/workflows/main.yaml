@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: "13.x"
       - name: Cache dependencies and build outputs
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v2.1.7
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
