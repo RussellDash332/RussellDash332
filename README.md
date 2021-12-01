@@ -5,11 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/nus-cs2030/2122-s1/issues/385) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. ❗️ Closed issue [#170](https://github.com/nus-cs2030/2122-s1/issues/170) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. ❗️ Closed issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. ❗️ Closed issue [#115](https://github.com/nus-cs2030/2122-s1/issues/115) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. ❗️ Closed issue [#39](https://github.com/nus-cs2030/2122-s1/issues/39) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+1. ❗️ Closed issue [#5](https://github.com/RussellDash332/practice-makes-perfect/issues/5) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+2. ❗️ Closed issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+3. 🗣 Commented on [#385](https://github.com/nus-cs2030/2122-s1/issues/385) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+4. ❗️ Closed issue [#170](https://github.com/nus-cs2030/2122-s1/issues/170) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+5. ❗️ Closed issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
