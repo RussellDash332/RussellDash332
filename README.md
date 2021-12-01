@@ -5,11 +5,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/nus-cs2030/2122-s1/issues/385) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-2. ❗️ Closed issue [#170](https://github.com/nus-cs2030/2122-s1/issues/170) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-3. ❗️ Closed issue [#336](https://github.com/nus-cs2030/2122-s1/issues/336) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-4. ❗️ Closed issue [#115](https://github.com/nus-cs2030/2122-s1/issues/115) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
-5. ❗️ Closed issue [#39](https://github.com/nus-cs2030/2122-s1/issues/39) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>29°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+    <td><b>33°C</b></td>
     <td><b>06:52</b></td>
     <td><b>18:55</b></td>
-    <td><b>76%</b></td>
+    <td><b>49%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 1 December, 09:00 GMT+8</b>
+  Last refreshed: <b>Wednesday, 1 December, 14:20 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
