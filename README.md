@@ -5,6 +5,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1103](https://github.com/Bogdanp/awesome-advent-of-code/pull/1103) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
+2. 🗣 Commented on [#92](https://github.com/nus-cs2030/2122-s1/issues/92) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
+3. ❗️ Closed issue [#5](https://github.com/RussellDash332/practice-makes-perfect/issues/5) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+4. ❗️ Closed issue [#6](https://github.com/RussellDash332/practice-makes-perfect/issues/6) in [RussellDash332/practice-makes-perfect](https://github.com/RussellDash332/practice-makes-perfect)
+5. 🗣 Commented on [#385](https://github.com/nus-cs2030/2122-s1/issues/385) in [nus-cs2030/2122-s1](https://github.com/nus-cs2030/2122-s1)
 <!--END_SECTION:activity-->
 
 <h3>Reach me out 👍</h3>
