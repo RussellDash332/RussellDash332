@@ -70,7 +70,7 @@
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 22 December, 00:13 GMT+8</b>
+  Last refreshed: <b>Wednesday, 22 December, 00:14 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
