@@ -2,16 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<h3>Recent Github Activity ⚡</h3>
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-2. 🗣 Commented on [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-3. ❗️ Opened issue [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-4. 🗣 Commented on [#2](https://github.com/RussellDash332/test-repo/issues/2) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-5. 🗣 Commented on [#2](https://github.com/RussellDash332/test-repo/issues/2) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-<!--END_SECTION:activity-->
-
 <h3>Reach me out 👍</h3>
 <p>
 <a href="https://www.instagram.com/russellsaerang2702/">
@@ -40,7 +30,7 @@
 <p float="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=true&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=My GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&hide_rank=true&layout=compact&exclude_repo=nusmods&title_color=dd58c1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
   </a>
   <details>
     <summary>
@@ -56,7 +46,12 @@
   </details>
 </p>
 
-<h3><img src="https://image.flaticon.com/icons/svg/197/197496.svg" width="13"/> Singapore's Weather ⛅</h3>
+<h3>Recent Github Activity ⚡</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<h3>Singapore's Weather ⛅</h3>
 <table>
   <tr>
     <th>Weather</th>
@@ -67,15 +62,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>27°C</b></td>
+    <td><b>26°C</b></td>
     <td><b>07:01</b></td>
-    <td><b>19:03</b></td>
-    <td><b>83%</b></td>
+    <td><b>19:04</b></td>
+    <td><b>88%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 21 December, 20:29 GMT+8</b>
+  Last refreshed: <b>Wednesday, 22 December, 00:13 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
