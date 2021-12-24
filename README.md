@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-2. 🗣 Commented on [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-3. ❗️ Opened issue [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-4. 🗣 Commented on [#2](https://github.com/RussellDash332/test-repo/issues/2) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-5. 🗣 Commented on [#2](https://github.com/RussellDash332/test-repo/issues/2) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
-    <td><b>29°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03n.png></td>
+    <td><b>27°C</b></td>
     <td><b>07:02</b></td>
     <td><b>19:05</b></td>
-    <td><b>77%</b></td>
+    <td><b>90%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Friday, 24 December, 14:21 GMT+8</b>
+  Last refreshed: <b>Friday, 24 December, 20:28 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
