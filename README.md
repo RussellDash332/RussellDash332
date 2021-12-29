@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/RussellDash332/email-automation/issues/1) in [RussellDash332/email-automation](https://github.com/RussellDash332/email-automation)
-2. 💪 Opened PR [#1207](https://github.com/Bogdanp/awesome-advent-of-code/pull/1207) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-3. ❗️ Closed issue [#1](https://github.com/RussellDash332/email-automation/issues/1) in [RussellDash332/email-automation](https://github.com/RussellDash332/email-automation)
-4. ❗️ Closed issue [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-5. 🗣 Commented on [#3](https://github.com/RussellDash332/test-repo/issues/3) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>30°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03n.png></td>
+    <td><b>28°C</b></td>
     <td><b>07:05</b></td>
     <td><b>19:07</b></td>
-    <td><b>67%</b></td>
+    <td><b>80%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 29 December, 14:21 GMT+8</b>
+  Last refreshed: <b>Wednesday, 29 December, 20:29 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
