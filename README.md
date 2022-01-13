@@ -49,6 +49,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
+2. 💪 Opened PR [#198](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/198) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
+3. ❗️ Opened issue [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
+4. 💪 Opened PR [#1](https://github.com/nus-cs2030/2122-s2/pull/1) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
+5. 🗣 Commented on [#1](https://github.com/RussellDash332/email-automation/issues/1) in [RussellDash332/email-automation](https://github.com/RussellDash332/email-automation)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
