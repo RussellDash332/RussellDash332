@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
-2. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
-3. 💪 Opened PR [#198](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/198) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-4. ❗️ Opened issue [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
-5. 💪 Opened PR [#1](https://github.com/nus-cs2030/2122-s2/pull/1) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>26°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+    <td><b>31°C</b></td>
     <td><b>07:11</b></td>
     <td><b>19:14</b></td>
-    <td><b>80%</b></td>
+    <td><b>55%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Friday, 14 January, 09:03 GMT+8</b>
+  Last refreshed: <b>Friday, 14 January, 14:22 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
