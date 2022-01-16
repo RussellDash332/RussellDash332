@@ -52,8 +52,8 @@
 1. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
 2. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
 3. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
-4. 💪 Opened PR [#198](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/198) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
-5. ❗️ Opened issue [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
+4. 🗣 Commented on [#6](https://github.com/nus-cs2030/2122-s2/issues/6) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
+5. 💪 Opened PR [#198](https://github.com/GitIndonesia/awesome-indonesia-repo/pull/198) in [GitIndonesia/awesome-indonesia-repo](https://github.com/GitIndonesia/awesome-indonesia-repo)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
