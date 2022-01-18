@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/RussellDash332/RussellDash332#readme",
   "dependencies": {
-    "dotenv": "^10.0.0",
+    "dotenv": "^14.2.0",
     "mustache": "^4.2.0",
     "node-fetch": "^2.6.1",
     "puppeteer": "^10.4.0"
