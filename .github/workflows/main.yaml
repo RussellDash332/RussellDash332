@@ -15,7 +15,7 @@ jobs:
       - name: Checkout current repository to main branch
         uses: actions/checkout@v2.3.5
       - name: Setup Node.js 13.x
-        uses: actions/setup-node@v2.4.1
+        uses: actions/setup-node@v3.0.0
         with:
           node-version: "13.x"
       - name: Cache dependencies and build outputs
