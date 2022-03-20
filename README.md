@@ -49,7 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4417](https://github.com/Coursemology/coursemology2/issues/4417) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,15 +62,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
-    <td><b>26°C</b></td>
+    <td><b>31°C</b></td>
     <td><b>07:08</b></td>
     <td><b>19:15</b></td>
-    <td><b>84%</b></td>
+    <td><b>63%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 20 March, 09:12 GMT+8</b>
+  Last refreshed: <b>Sunday, 20 March, 14:20 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
