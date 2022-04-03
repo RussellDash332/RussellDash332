@@ -49,7 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,15 +62,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>27°C</b></td>
-    <td><b>07:04</b></td>
+    <td><b>24°C</b></td>
+    <td><b>07:03</b></td>
     <td><b>19:11</b></td>
-    <td><b>80%</b></td>
+    <td><b>86%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 3 April, 20:29 GMT+8</b>
+  Last refreshed: <b>Monday, 4 April, 02:20 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
