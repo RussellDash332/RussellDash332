@@ -49,6 +49,9 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
+2. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
+3. ❗️ Opened issue [#4417](https://github.com/Coursemology/coursemology2/issues/4417) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
