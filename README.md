@@ -49,6 +49,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/kenghweeng/sports-messiest-news/issues/1) in [kenghweeng/sports-messiest-news](https://github.com/kenghweeng/sports-messiest-news)
+2. ❗️ Opened issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
+3. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
+4. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
+5. ❗️ Opened issue [#4417](https://github.com/Coursemology/coursemology2/issues/4417) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
