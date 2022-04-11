@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/kenghweeng/sports-messiest-news/issues/1) in [kenghweeng/sports-messiest-news](https://github.com/kenghweeng/sports-messiest-news)
-2. ❗️ Opened issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-3. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
-4. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
-5. ❗️ Opened issue [#4417](https://github.com/Coursemology/coursemology2/issues/4417) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>heavy intensity rain</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;10d.png></td>
-    <td><b>26°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b>27°C</b></td>
     <td><b>07:01</b></td>
     <td><b>19:09</b></td>
-    <td><b>86%</b></td>
+    <td><b>85%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Monday, 11 April, 14:23 GMT+8</b>
+  Last refreshed: <b>Monday, 11 April, 20:32 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
