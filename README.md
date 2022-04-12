@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-2. ❗️ Opened issue [#1](https://github.com/kenghweeng/sports-messiest-news/issues/1) in [kenghweeng/sports-messiest-news](https://github.com/kenghweeng/sports-messiest-news)
-3. ❗️ Opened issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-4. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
-5. 🗣 Commented on [#3](https://github.com/RussellDash332/EXPOSE-DSA/issues/3) in [RussellDash332/EXPOSE-DSA](https://github.com/RussellDash332/EXPOSE-DSA)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>29°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+    <td><b>31°C</b></td>
     <td><b>07:01</b></td>
     <td><b>19:09</b></td>
-    <td><b>76%</b></td>
+    <td><b>66%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 12 April, 09:23 GMT+8</b>
+  Last refreshed: <b>Tuesday, 12 April, 14:22 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
