@@ -49,11 +49,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-2. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-3. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-4. ❗️ Opened issue [#1](https://github.com/kenghweeng/sports-messiest-news/issues/1) in [kenghweeng/sports-messiest-news](https://github.com/kenghweeng/sports-messiest-news)
-5. ❗️ Opened issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,16 +61,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>32°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b>30°C</b></td>
     <td><b>07:00</b></td>
     <td><b>19:08</b></td>
-    <td><b>61%</b></td>
+    <td><b>70%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Thursday, 14 April, 14:23 GMT+8</b>
+  Last refreshed: <b>Thursday, 14 April, 20:36 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
