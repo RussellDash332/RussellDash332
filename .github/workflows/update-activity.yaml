@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to main branch
-        uses: actions/checkout@v2.3.5
+        uses: actions/checkout@v3.0.2
       - name: Update recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
