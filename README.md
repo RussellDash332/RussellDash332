@@ -51,11 +51,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#601](https://github.com/nus-cs2030/2122-s2/issues/601) in [nus-cs2030/2122-s2](https://github.com/nus-cs2030/2122-s2)
-2. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-3. ❌ Closed PR [#35](https://github.com/RussellDash332/RussellDash332/pull/35) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-4. ❌ Closed PR [#48](https://github.com/RussellDash332/RussellDash332/pull/48) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-5. 🎉 Merged PR [#54](https://github.com/RussellDash332/RussellDash332/pull/54) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -69,15 +64,15 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>30°C</b></td>
+    <td><b>31°C</b></td>
     <td><b>06:57</b></td>
     <td><b>19:06</b></td>
-    <td><b>76%</b></td>
+    <td><b>71%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Thursday, 28 April, 10:14 GMT+8</b>
+  Last refreshed: <b>Thursday, 28 April, 14:27 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
