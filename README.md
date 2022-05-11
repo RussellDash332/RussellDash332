@@ -51,11 +51,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-2. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-3. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-4. ❌ Closed PR [#35](https://github.com/RussellDash332/RussellDash332/pull/35) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-5. ❌ Closed PR [#48](https://github.com/RussellDash332/RussellDash332/pull/48) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -72,12 +67,12 @@
     <td><b>28°C</b></td>
     <td><b>06:55</b></td>
     <td><b>19:06</b></td>
-    <td><b>78%</b></td>
+    <td><b>85%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 11 May, 20:40 GMT+8</b>
+  Last refreshed: <b>Thursday, 12 May, 02:24 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
