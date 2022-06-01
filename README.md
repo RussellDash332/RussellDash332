@@ -51,11 +51,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4633](https://github.com/Coursemology/coursemology2/issues/4633) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-2. ❗️ Opened issue [#4625](https://github.com/Coursemology/coursemology2/issues/4625) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-3. ❗️ Closed issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-4. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-5. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
+1. ❗️ Opened issue [#4634](https://github.com/Coursemology/coursemology2/issues/4634) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+2. 🗣 Commented on [#4357](https://github.com/Coursemology/coursemology2/issues/4357) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+3. ❗️ Opened issue [#4633](https://github.com/Coursemology/coursemology2/issues/4633) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+4. ❗️ Opened issue [#4625](https://github.com/Coursemology/coursemology2/issues/4625) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+5. ❗️ Closed issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
