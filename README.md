@@ -51,11 +51,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4633](https://github.com/Coursemology/coursemology2/issues/4633) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-2. ❗️ Opened issue [#4625](https://github.com/Coursemology/coursemology2/issues/4625) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-3. ❗️ Closed issue [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-4. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
-5. 🗣 Commented on [#579](https://github.com/pyglet/pyglet/issues/579) in [pyglet/pyglet](https://github.com/pyglet/pyglet)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -68,16 +63,16 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03n.png></td>
-    <td><b>28°C</b></td>
-    <td><b>06:56</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b>27°C</b></td>
+    <td><b>06:57</b></td>
     <td><b>19:08</b></td>
-    <td><b>85%</b></td>
+    <td><b>90%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 1 June, 20:42 GMT+8</b>
+  Last refreshed: <b>Thursday, 2 June, 02:25 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
