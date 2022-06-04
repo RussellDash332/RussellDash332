@@ -51,11 +51,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Faris999/indonesian-mo-formalization/issues/5) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-2. 🗣 Commented on [#4](https://github.com/Faris999/indonesian-mo-formalization/issues/4) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-3. 🗣 Commented on [#3](https://github.com/Faris999/indonesian-mo-formalization/issues/3) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-4. 🗣 Commented on [#1](https://github.com/Faris999/indonesian-mo-formalization/issues/1) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-5. ❗️ Opened issue [#4634](https://github.com/Coursemology/coursemology2/issues/4634) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -72,12 +67,12 @@
     <td><b>27°C</b></td>
     <td><b>06:57</b></td>
     <td><b>19:08</b></td>
-    <td><b>87%</b></td>
+    <td><b>88%</b></td>
   </tr>
 </table>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 5 June, 02:20 GMT+8</b>
+  Last refreshed: <b>Sunday, 5 June, 03:12 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
