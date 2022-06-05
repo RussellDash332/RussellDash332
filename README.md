@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#62](https://github.com/RussellDash332/RussellDash332/pull/62) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+2. 🎉 Merged PR [#63](https://github.com/RussellDash332/RussellDash332/pull/63) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+3. 🎉 Merged PR [#67](https://github.com/RussellDash332/RussellDash332/pull/67) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+4. ❌ Closed PR [#68](https://github.com/RussellDash332/RussellDash332/pull/68) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+5. 🎉 Merged PR [#69](https://github.com/RussellDash332/RussellDash332/pull/69) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
