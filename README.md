@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4640](https://github.com/Coursemology/coursemology2/issues/4640) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-2. ❌ Closed PR [#62](https://github.com/RussellDash332/RussellDash332/pull/62) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-3. 🎉 Merged PR [#63](https://github.com/RussellDash332/RussellDash332/pull/63) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-4. 🎉 Merged PR [#67](https://github.com/RussellDash332/RussellDash332/pull/67) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-5. ❌ Closed PR [#68](https://github.com/RussellDash332/RussellDash332/pull/68) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>27°C</b></td>
+    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
+    <td><b>28°C</b></td>
     <td><b>06:57</b></td>
     <td><b>19:09</b></td>
-    <td><b>88%</b></td>
+    <td><b>86%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 7 June, 02:21 GMT+8</b>
+  Last refreshed: <b>Tuesday, 7 June, 09:38 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
