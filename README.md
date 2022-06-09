@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/RussellDash332/RussellDash332/pull/72) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-2. 🎉 Merged PR [#71](https://github.com/RussellDash332/RussellDash332/pull/71) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-3. 🎉 Merged PR [#70](https://github.com/RussellDash332/RussellDash332/pull/70) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-4. ❗️ Opened issue [#4640](https://github.com/Coursemology/coursemology2/issues/4640) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❌ Closed PR [#62](https://github.com/RussellDash332/RussellDash332/pull/62) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Thursday, 9 June, 20:38 GMT+8</b>
+  Last refreshed: <b>Friday, 10 June, 02:22 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
