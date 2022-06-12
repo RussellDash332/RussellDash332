@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
+2. 🗣 Commented on [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
+3. ❗️ Opened issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
+4. 🎉 Merged PR [#72](https://github.com/RussellDash332/RussellDash332/pull/72) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+5. 🎉 Merged PR [#71](https://github.com/RussellDash332/RussellDash332/pull/71) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
