@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-2. 🗣 Commented on [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-3. ❗️ Opened issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-4. 🎉 Merged PR [#72](https://github.com/RussellDash332/RussellDash332/pull/72) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
-5. 🎉 Merged PR [#71](https://github.com/RussellDash332/RussellDash332/pull/71) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
     <td><b>27°C</b></td>
     <td><b>06:58</b></td>
     <td><b>19:10</b></td>
-    <td><b>83%</b></td>
+    <td><b>79%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 12 June, 02:20 GMT+8</b>
+  Last refreshed: <b>Sunday, 12 June, 09:51 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
