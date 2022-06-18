@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/BrendanCheong/Duty-Buddy/issues/12) in [BrendanCheong/Duty-Buddy](https://github.com/BrendanCheong/Duty-Buddy)
-2. ❗️ Opened issue [#1](https://github.com/RussellDash332/nusmods-test/issues/1) in [RussellDash332/nusmods-test](https://github.com/RussellDash332/nusmods-test)
-3. ❗️ Closed issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-4. 🗣 Commented on [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-5. ❗️ Opened issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,10 +58,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>26°C</b></td>
-    <td><b>06:59</b></td>
+    <td><b>25°C</b></td>
+    <td><b>07:00</b></td>
     <td><b>19:11</b></td>
-    <td><b>86%</b></td>
+    <td><b>91%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Saturday, 18 June, 20:30 GMT+8</b>
+  Last refreshed: <b>Sunday, 19 June, 02:21 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
