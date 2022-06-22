@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/BrendanCheong/Duty-Buddy/issues/12) in [BrendanCheong/Duty-Buddy](https://github.com/BrendanCheong/Duty-Buddy)
-2. ❗️ Opened issue [#1](https://github.com/RussellDash332/nusmods-test/issues/1) in [RussellDash332/nusmods-test](https://github.com/RussellDash332/nusmods-test)
-3. ❗️ Closed issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-4. 🗣 Commented on [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
-5. ❗️ Opened issue [#3390](https://github.com/nusmodifications/nusmods/issues/3390) in [nusmodifications/nusmods](https://github.com/nusmodifications/nusmods)
+1. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+2. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+3. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+4. ❗️ Opened issue [#4744](https://github.com/Coursemology/coursemology2/issues/4744) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+5. 🗣 Commented on [#12](https://github.com/BrendanCheong/Duty-Buddy/issues/12) in [BrendanCheong/Duty-Buddy](https://github.com/BrendanCheong/Duty-Buddy)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
