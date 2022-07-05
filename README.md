@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+2. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+3. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+4. ❗️ Opened issue [#4744](https://github.com/Coursemology/coursemology2/issues/4744) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+5. 🗣 Commented on [#12](https://github.com/BrendanCheong/Duty-Buddy/issues/12) in [BrendanCheong/Duty-Buddy](https://github.com/BrendanCheong/Duty-Buddy)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
