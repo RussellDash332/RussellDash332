@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-2. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-3. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-4. ❗️ Opened issue [#4744](https://github.com/Coursemology/coursemology2/issues/4744) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. 🗣 Commented on [#12](https://github.com/BrendanCheong/Duty-Buddy/issues/12) in [BrendanCheong/Duty-Buddy](https://github.com/BrendanCheong/Duty-Buddy)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>28°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+    <td><b>29°C</b></td>
     <td><b>07:04</b></td>
     <td><b>19:16</b></td>
-    <td><b>83%</b></td>
+    <td><b>74%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Saturday, 16 July, 02:23 GMT+8</b>
+  Last refreshed: <b>Saturday, 16 July, 09:52 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
