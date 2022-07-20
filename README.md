@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1241](https://github.com/Bogdanp/awesome-advent-of-code/pull/1241) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-2. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-3. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-4. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#4744](https://github.com/Coursemology/coursemology2/issues/4744) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,7 +61,7 @@
     <td><b>29°C</b></td>
     <td><b>07:05</b></td>
     <td><b>19:16</b></td>
-    <td><b>71%</b></td>
+    <td><b>66%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 20 July, 09:52 GMT+8</b>
+  Last refreshed: <b>Wednesday, 20 July, 14:24 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
