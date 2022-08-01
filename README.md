@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Faris999/indonesian-mo-formalization/issues/11) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-2. 💪 Opened PR [#1241](https://github.com/Bogdanp/awesome-advent-of-code/pull/1241) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-3. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-4. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#4745](https://github.com/Coursemology/coursemology2/issues/4745) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>26°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+    <td><b>29°C</b></td>
     <td><b>07:05</b></td>
     <td><b>19:16</b></td>
-    <td><b>90%</b></td>
+    <td><b>83%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Monday, 1 August, 02:21 GMT+8</b>
+  Last refreshed: <b>Monday, 1 August, 10:03 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
