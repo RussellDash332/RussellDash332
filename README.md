@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4908](https://github.com/Coursemology/coursemology2/issues/4908) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-2. 🗣 Commented on [#11](https://github.com/Faris999/indonesian-mo-formalization/issues/11) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
-3. 💪 Opened PR [#1241](https://github.com/Bogdanp/awesome-advent-of-code/pull/1241) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-4. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#4746](https://github.com/Coursemology/coursemology2/issues/4746) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+1. 🗣 Commented on [#4634](https://github.com/Coursemology/coursemology2/issues/4634) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+2. ❗️ Opened issue [#4908](https://github.com/Coursemology/coursemology2/issues/4908) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+3. 🗣 Commented on [#11](https://github.com/Faris999/indonesian-mo-formalization/issues/11) in [Faris999/indonesian-mo-formalization](https://github.com/Faris999/indonesian-mo-formalization)
+4. 💪 Opened PR [#1241](https://github.com/Bogdanp/awesome-advent-of-code/pull/1241) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
+5. ❗️ Opened issue [#4747](https://github.com/Coursemology/coursemology2/issues/4747) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
