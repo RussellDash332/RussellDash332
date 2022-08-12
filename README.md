@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-2. ❗️ Opened issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-3. 🗣 Commented on [#66](https://github.com/Beebeeoii/lominus/issues/66) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-4. ❗️ Opened issue [#69](https://github.com/Beebeeoii/lominus/issues/69) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-5. 🗣 Commented on [#4634](https://github.com/Coursemology/coursemology2/issues/4634) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,10 +58,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>29°C</b></td>
+    <td><b>28°C</b></td>
     <td><b>07:04</b></td>
     <td><b>19:14</b></td>
-    <td><b>70%</b></td>
+    <td><b>86%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Friday, 12 August, 20:35 GMT+8</b>
+  Last refreshed: <b>Saturday, 13 August, 02:23 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
