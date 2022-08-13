@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/nus-cs2103-AY2223S1/forum/issues/2) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. ❗️ Closed issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-3. ❗️ Opened issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-4. 🗣 Commented on [#66](https://github.com/Beebeeoii/lominus/issues/66) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-5. ❗️ Opened issue [#69](https://github.com/Beebeeoii/lominus/issues/69) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
-    <td><b>27°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
+    <td><b>29°C</b></td>
     <td><b>07:04</b></td>
     <td><b>19:14</b></td>
-    <td><b>80%</b></td>
+    <td><b>68%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Saturday, 13 August, 14:22 GMT+8</b>
+  Last refreshed: <b>Saturday, 13 August, 18:48 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
