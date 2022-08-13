@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-2. ❗️ Opened issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-3. 🗣 Commented on [#66](https://github.com/Beebeeoii/lominus/issues/66) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-4. ❗️ Opened issue [#69](https://github.com/Beebeeoii/lominus/issues/69) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-5. 🗣 Commented on [#4634](https://github.com/Coursemology/coursemology2/issues/4634) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
+1. 🗣 Commented on [#2](https://github.com/nus-cs2103-AY2223S1/forum/issues/2) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. ❗️ Closed issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
+3. ❗️ Opened issue [#5](https://github.com/RussellDash332/test-repo/issues/5) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
+4. 🗣 Commented on [#66](https://github.com/Beebeeoii/lominus/issues/66) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
+5. ❗️ Opened issue [#69](https://github.com/Beebeeoii/lominus/issues/69) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
