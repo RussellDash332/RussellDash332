@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#76](https://github.com/Beebeeoii/lominus/issues/76) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
+2. 🎉 Merged PR [#87](https://github.com/RussellDash332/RussellDash332/pull/87) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+3. ❌ Closed PR [#90](https://github.com/RussellDash332/RussellDash332/pull/90) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+4. 🎉 Merged PR [#93](https://github.com/RussellDash332/RussellDash332/pull/93) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
+5. 🎉 Merged PR [#94](https://github.com/RussellDash332/RussellDash332/pull/94) in [RussellDash332/RussellDash332](https://github.com/RussellDash332/RussellDash332)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
