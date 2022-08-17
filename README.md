@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/nus-cs2103-AY2223S1/forum/issues/16) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#14](https://github.com/nus-cs2103-AY2223S1/forum/issues/14) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#10](https://github.com/nus-cs2103-AY2223S1/forum/issues/10) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. ❗️ Opened issue [#4968](https://github.com/Coursemology/coursemology2/issues/4968) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#76](https://github.com/Beebeeoii/lominus/issues/76) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,10 +58,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>29°C</b></td>
+    <td><b>28°C</b></td>
     <td><b>07:04</b></td>
     <td><b>19:13</b></td>
-    <td><b>71%</b></td>
+    <td><b>76%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 17 August, 20:42 GMT+8</b>
+  Last refreshed: <b>Thursday, 18 August, 02:23 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
