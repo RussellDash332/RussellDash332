@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/nus-cs2103-AY2223S1/forum/issues/16) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#14](https://github.com/nus-cs2103-AY2223S1/forum/issues/14) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#10](https://github.com/nus-cs2103-AY2223S1/forum/issues/10) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. ❗️ Opened issue [#4968](https://github.com/Coursemology/coursemology2/issues/4968) in [Coursemology/coursemology2](https://github.com/Coursemology/coursemology2)
-5. ❗️ Opened issue [#76](https://github.com/Beebeeoii/lominus/issues/76) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
+1. 🗣 Commented on [#24](https://github.com/nus-cs2103-AY2223S1/forum/issues/24) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 💪 Opened PR [#10](https://github.com/nus-cs2103-AY2223S1/ip/pull/10) in [nus-cs2103-AY2223S1/ip](https://github.com/nus-cs2103-AY2223S1/ip)
+3. 🗣 Commented on [#16](https://github.com/nus-cs2103-AY2223S1/forum/issues/16) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+4. 🗣 Commented on [#14](https://github.com/nus-cs2103-AY2223S1/forum/issues/14) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+5. 🗣 Commented on [#10](https://github.com/nus-cs2103-AY2223S1/forum/issues/10) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
