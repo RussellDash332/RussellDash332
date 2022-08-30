@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/nus-cs2103-AY2223S1/forum/issues/101) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#32](https://github.com/nus-cs2103-AY2223S1/forum/issues/32) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#40](https://github.com/nus-cs2103-AY2223S1/forum/issues/40) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. 🎉 Merged PR [#6](https://github.com/RussellDash332/test-repo/pull/6) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
-5. 💪 Opened PR [#6](https://github.com/RussellDash332/test-repo/pull/6) in [RussellDash332/test-repo](https://github.com/RussellDash332/test-repo)
+1. 🗣 Commented on [#108](https://github.com/nus-cs2103-AY2223S1/forum/issues/108) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 🗣 Commented on [#108](https://github.com/nus-cs2103-AY2223S1/forum/issues/108) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+3. 🗣 Commented on [#108](https://github.com/nus-cs2103-AY2223S1/forum/issues/108) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+4. 🗣 Commented on [#101](https://github.com/nus-cs2103-AY2223S1/forum/issues/101) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+5. 🗣 Commented on [#32](https://github.com/nus-cs2103-AY2223S1/forum/issues/32) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
