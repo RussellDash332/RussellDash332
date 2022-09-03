@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/nus-cs2103-AY2223S1/forum/issues/128) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#128](https://github.com/nus-cs2103-AY2223S1/forum/issues/128) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#106](https://github.com/nus-cs2103-AY2223S1/forum/issues/106) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. ❗️ Closed issue [#118](https://github.com/nus-cs2103-AY2223S1/forum/issues/118) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-5. 🗣 Commented on [#118](https://github.com/nus-cs2103-AY2223S1/forum/issues/118) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+1. 🗣 Commented on [#138](https://github.com/nus-cs2103-AY2223S1/forum/issues/138) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 🎉 Merged PR [#3](https://github.com/RussellDash332/ip/pull/3) in [RussellDash332/ip](https://github.com/RussellDash332/ip)
+3. 🎉 Merged PR [#2](https://github.com/RussellDash332/ip/pull/2) in [RussellDash332/ip](https://github.com/RussellDash332/ip)
+4. 🎉 Merged PR [#1](https://github.com/RussellDash332/ip/pull/1) in [RussellDash332/ip](https://github.com/RussellDash332/ip)
+5. 💪 Opened PR [#3](https://github.com/RussellDash332/ip/pull/3) in [RussellDash332/ip](https://github.com/RussellDash332/ip)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
