@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#128](https://github.com/nus-cs2103-AY2223S1/forum/issues/128) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 🗣 Commented on [#128](https://github.com/nus-cs2103-AY2223S1/forum/issues/128) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+3. 🗣 Commented on [#106](https://github.com/nus-cs2103-AY2223S1/forum/issues/106) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+4. ❗️ Closed issue [#118](https://github.com/nus-cs2103-AY2223S1/forum/issues/118) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+5. 🗣 Commented on [#118](https://github.com/nus-cs2103-AY2223S1/forum/issues/118) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
