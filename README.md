@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/nus-cs2103-AY2223S1/forum/issues/267) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/forum/issues/265) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+1. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/forum/issues/265) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. 🗣 Commented on [#267](https://github.com/nus-cs2103-AY2223S1/forum/issues/267) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 3. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/forum/issues/265) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. 🗣 Commented on [#229](https://github.com/nus-cs2103-AY2223S1/forum/issues/229) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-5. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/forum/issues/265) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+4. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/forum/issues/265) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+5. 🗣 Commented on [#229](https://github.com/nus-cs2103-AY2223S1/forum/issues/229) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
