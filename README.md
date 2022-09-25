@@ -45,10 +45,10 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#303](https://github.com/nus-cs2103-AY2223S1/forum/issues/303) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🎉 Merged PR [#60](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/60) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-3. 🗣 Commented on [#302](https://github.com/nus-cs2103-AY2223S1/forum/issues/302) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. 🗣 Commented on [#300](https://github.com/nus-cs2103-AY2223S1/forum/issues/300) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+1. ❗️ Closed issue [#5](https://github.com/RussellDash332/ip/issues/5) in [RussellDash332/ip](https://github.com/RussellDash332/ip)
+2. 🗣 Commented on [#303](https://github.com/nus-cs2103-AY2223S1/forum/issues/303) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+3. 🎉 Merged PR [#60](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/60) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+4. 🗣 Commented on [#302](https://github.com/nus-cs2103-AY2223S1/forum/issues/302) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 5. 🗣 Commented on [#300](https://github.com/nus-cs2103-AY2223S1/forum/issues/300) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
