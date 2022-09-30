@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/68) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-2. 🗣 Commented on [#315](https://github.com/nus-cs2103-AY2223S1/forum/issues/315) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#315](https://github.com/nus-cs2103-AY2223S1/forum/issues/315) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-4. 🗣 Commented on [#305](https://github.com/nus-cs2103-AY2223S1/forum/issues/305) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-5. 🗣 Commented on [#306](https://github.com/nus-cs2103-AY2223S1/forum/issues/306) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>32°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b>29°C</b></td>
     <td><b>06:51</b></td>
     <td><b>18:57</b></td>
-    <td><b>58%</b></td>
+    <td><b>74%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Friday, 30 September, 14:51 GMT+8</b>
+  Last refreshed: <b>Friday, 30 September, 20:48 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
