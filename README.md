@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/96) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-2. 🗣 Commented on [#102](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/102) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-3. ❗️ Closed issue [#8](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/8) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-4. 🎉 Merged PR [#102](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/102) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-5. 🎉 Merged PR [#99](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/99) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,10 +58,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>29°C</b></td>
-    <td><b>06:48</b></td>
+    <td><b>26°C</b></td>
+    <td><b>06:47</b></td>
     <td><b>18:53</b></td>
-    <td><b>64%</b></td>
+    <td><b>88%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Thursday, 13 October, 20:50 GMT+8</b>
+  Last refreshed: <b>Friday, 14 October, 02:31 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
