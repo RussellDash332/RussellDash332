@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/99) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-2. ❗️ Closed issue [#91](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/91) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-3. ❗️ Closed issue [#9](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/9) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-4. 🗣 Commented on [#9](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/9) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-5. ❗️ Closed issue [#7](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/7) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+1. 🎉 Merged PR [#96](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/96) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+2. 🗣 Commented on [#102](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/102) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+3. ❗️ Closed issue [#8](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/8) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+4. 🎉 Merged PR [#102](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/102) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+5. 🎉 Merged PR [#99](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/99) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
