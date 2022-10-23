@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#123](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/123) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+2. ❗️ Opened issue [#3](https://github.com/RussellDash332/alpha/issues/3) in [RussellDash332/alpha](https://github.com/RussellDash332/alpha)
+3. ❗️ Opened issue [#2](https://github.com/RussellDash332/alpha/issues/2) in [RussellDash332/alpha](https://github.com/RussellDash332/alpha)
+4. 💪 Opened PR [#121](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/121) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+5. 💪 Opened PR [#116](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/116) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
