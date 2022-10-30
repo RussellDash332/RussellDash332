@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/RussellDash332/ped/issues/13) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-2. ❗️ Opened issue [#12](https://github.com/RussellDash332/ped/issues/12) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-3. ❗️ Opened issue [#11](https://github.com/RussellDash332/ped/issues/11) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-4. ❗️ Opened issue [#10](https://github.com/RussellDash332/ped/issues/10) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-5. ❗️ Opened issue [#9](https://github.com/RussellDash332/ped/issues/9) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -62,11 +57,11 @@
     <th>Humidity</th>
   </tr>
   <tr style="text-align:center">
-    <td><b><i>scattered clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;03d.png></td>
-    <td><b>31°C</b></td>
+    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
+    <td><b>26°C</b></td>
     <td><b>06:46</b></td>
     <td><b>18:50</b></td>
-    <td><b>66%</b></td>
+    <td><b>81%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Sunday, 30 October, 14:24 GMT+8</b>
+  Last refreshed: <b>Sunday, 30 October, 20:38 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
