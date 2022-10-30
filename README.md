@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/RussellDash332/ped/issues/13) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-2. ❗️ Opened issue [#12](https://github.com/RussellDash332/ped/issues/12) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-3. ❗️ Opened issue [#11](https://github.com/RussellDash332/ped/issues/11) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-4. ❗️ Opened issue [#10](https://github.com/RussellDash332/ped/issues/10) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
-5. ❗️ Opened issue [#9](https://github.com/RussellDash332/ped/issues/9) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
+1. ❗️ Opened issue [#400](https://github.com/nus-cs2103-AY2223S1/forum/issues/400) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
+2. ❗️ Closed issue [#196](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/196) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+3. 🗣 Commented on [#196](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/196) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+4. ❗️ Closed issue [#175](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/175) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+5. 🗣 Commented on [#175](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/175) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
