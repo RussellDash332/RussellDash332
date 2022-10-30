@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#13](https://github.com/RussellDash332/ped/issues/13) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
+2. ❗️ Opened issue [#12](https://github.com/RussellDash332/ped/issues/12) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
+3. ❗️ Opened issue [#11](https://github.com/RussellDash332/ped/issues/11) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
+4. ❗️ Opened issue [#10](https://github.com/RussellDash332/ped/issues/10) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
+5. ❗️ Opened issue [#9](https://github.com/RussellDash332/ped/issues/9) in [RussellDash332/ped](https://github.com/RussellDash332/ped)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
