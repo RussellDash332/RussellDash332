@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#400](https://github.com/nus-cs2103-AY2223S1/forum/issues/400) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. ❗️ Closed issue [#196](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/196) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-3. 🗣 Commented on [#196](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/196) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-4. ❗️ Closed issue [#175](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/175) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-5. 🗣 Commented on [#175](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/175) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+1. 🗣 Commented on [#156](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/156) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+2. ❗️ Closed issue [#195](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/195) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+3. 🗣 Commented on [#195](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/195) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+4. ❗️ Closed issue [#195](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/195) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+5. 🗣 Commented on [#195](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/195) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
