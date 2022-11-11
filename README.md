@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/RussellDash332/pe/issues/2) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-2. ❗️ Opened issue [#1](https://github.com/RussellDash332/pe/issues/1) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-3. 💪 Opened PR [#244](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/244) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-4. 🎉 Merged PR [#239](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/239) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-5. 💪 Opened PR [#240](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/240) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+1. ❗️ Opened issue [#16](https://github.com/RussellDash332/pe/issues/16) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+2. ❗️ Opened issue [#15](https://github.com/RussellDash332/pe/issues/15) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+3. ❗️ Opened issue [#14](https://github.com/RussellDash332/pe/issues/14) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+4. ❗️ Opened issue [#13](https://github.com/RussellDash332/pe/issues/13) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+5. ❗️ Opened issue [#11](https://github.com/RussellDash332/pe/issues/11) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
