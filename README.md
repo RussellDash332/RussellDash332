@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/244) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-2. 🎉 Merged PR [#239](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/239) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-3. 💪 Opened PR [#240](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/240) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-4. ❗️ Closed issue [#127](https://github.com/AY2223S1-CS2103-F09-1/tp/issues/127) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
-5. 🎉 Merged PR [#236](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/236) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+1. ❗️ Opened issue [#2](https://github.com/RussellDash332/pe/issues/2) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+2. ❗️ Opened issue [#1](https://github.com/RussellDash332/pe/issues/1) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+3. 💪 Opened PR [#244](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/244) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+4. 🎉 Merged PR [#239](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/239) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
+5. 💪 Opened PR [#240](https://github.com/AY2223S1-CS2103-F09-1/tp/pull/240) in [AY2223S1-CS2103-F09-1/tp](https://github.com/AY2223S1-CS2103-F09-1/tp)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
