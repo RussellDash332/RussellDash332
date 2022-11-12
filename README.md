@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/RussellDash332/pe/issues/16) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-2. ❗️ Opened issue [#15](https://github.com/RussellDash332/pe/issues/15) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-3. ❗️ Opened issue [#14](https://github.com/RussellDash332/pe/issues/14) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-4. ❗️ Opened issue [#13](https://github.com/RussellDash332/pe/issues/13) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-5. ❗️ Opened issue [#11](https://github.com/RussellDash332/pe/issues/11) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+1. 💪 Opened PR [#16](https://github.com/nus-planner/frontend/pull/16) in [nus-planner/frontend](https://github.com/nus-planner/frontend)
+2. ❗️ Opened issue [#16](https://github.com/RussellDash332/pe/issues/16) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+3. ❗️ Opened issue [#15](https://github.com/RussellDash332/pe/issues/15) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+4. ❗️ Opened issue [#14](https://github.com/RussellDash332/pe/issues/14) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+5. ❗️ Opened issue [#13](https://github.com/RussellDash332/pe/issues/13) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
