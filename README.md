@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/nus-planner/frontend/pull/16) in [nus-planner/frontend](https://github.com/nus-planner/frontend)
-2. ❗️ Opened issue [#16](https://github.com/RussellDash332/pe/issues/16) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-3. ❗️ Opened issue [#15](https://github.com/RussellDash332/pe/issues/15) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-4. ❗️ Opened issue [#14](https://github.com/RussellDash332/pe/issues/14) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
-5. ❗️ Opened issue [#13](https://github.com/RussellDash332/pe/issues/13) in [RussellDash332/pe](https://github.com/RussellDash332/pe)
+1. 🗣 Commented on [#2617](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/2617) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
+2. 🗣 Commented on [#2179](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/2179) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
+3. 🗣 Commented on [#2008](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/2008) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
+4. 🗣 Commented on [#2107](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/2107) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
+5. 🗣 Commented on [#2101](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/2101) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
