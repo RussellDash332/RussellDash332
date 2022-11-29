@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#493](https://github.com/nus-cs2103-AY2223S1/forum/issues/493) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-2. 🗣 Commented on [#1408](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1408) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-3. 🗣 Commented on [#1104](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1104) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-4. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/265) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-5. 🗣 Commented on [#264](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/264) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -66,7 +61,7 @@
     <td><b>26°C</b></td>
     <td><b>06:51</b></td>
     <td><b>18:54</b></td>
-    <td><b>85%</b></td>
+    <td><b>88%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Tuesday, 29 November, 20:34 GMT+8</b>
+  Last refreshed: <b>Wednesday, 30 November, 02:20 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
