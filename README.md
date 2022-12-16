@@ -45,11 +45,6 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/Beebeeoii/lominus/issues/89) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-2. 🗣 Commented on [#493](https://github.com/nus-cs2103-AY2223S1/forum/issues/493) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#1408](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1408) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-4. 🗣 Commented on [#1104](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1104) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-5. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/265) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -63,10 +58,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04d.png></td>
-    <td><b>27°C</b></td>
+    <td><b>31°C</b></td>
     <td><b>06:58</b></td>
     <td><b>19:01</b></td>
-    <td><b>80%</b></td>
+    <td><b>61%</b></td>
   </tr>
 </table>
 
@@ -84,7 +79,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Friday, 16 December, 09:16 GMT+8</b>
+  Last refreshed: <b>Friday, 16 December, 14:19 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
