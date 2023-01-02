@@ -63,10 +63,10 @@
   </tr>
   <tr style="text-align:center">
     <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>27°C</b></td>
-    <td><b>07:01</b></td>
-    <td><b>19:03</b></td>
-    <td><b>81%</b></td>
+    <td><b>26°C</b></td>
+    <td><b>07:07</b></td>
+    <td><b>19:10</b></td>
+    <td><b>80%</b></td>
   </tr>
 </table>
 
@@ -84,7 +84,7 @@
 </details>
 
 <div align="right">
-  Last refreshed: <b>Wednesday, 21 December, 20:30 GMT+8</b>
+  Last refreshed: <b>Tuesday, 3 January, 01:52 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
