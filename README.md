@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 -->
 
+I'm Russell, a penultimate Data Science and Analytics student at the National University of Singapore!
+
 <h3>Reach me out 👍</h3>
 <p>
 <!--
@@ -42,34 +44,6 @@
   </a>
 </p>
 
-<h3>Recent Github Activity ⚡</h3>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/Beebeeoii/lominus/issues/89) in [Beebeeoii/lominus](https://github.com/Beebeeoii/lominus)
-2. 🗣 Commented on [#493](https://github.com/nus-cs2103-AY2223S1/forum/issues/493) in [nus-cs2103-AY2223S1/forum](https://github.com/nus-cs2103-AY2223S1/forum)
-3. 🗣 Commented on [#1408](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1408) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-4. 🗣 Commented on [#1104](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/1104) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-5. 🗣 Commented on [#265](https://github.com/nus-cs2103-AY2223S1/pe-dev-response/issues/265) in [nus-cs2103-AY2223S1/pe-dev-response](https://github.com/nus-cs2103-AY2223S1/pe-dev-response)
-<!--END_SECTION:activity-->
-
-<h3>Singapore's Weather ⛅</h3>
-<table>
-  <tr>
-    <th>Weather</th>
-    <th>Temperature</th>
-    <th>Sunrise</th>
-    <th>Sunset</th>
-    <th>Humidity</th>
-  </tr>
-  <tr style="text-align:center">
-    <td><b><i>broken clouds</i></b> <img width="30" src=http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;w&#x2F;04n.png></td>
-    <td><b>26°C</b></td>
-    <td><b>07:07</b></td>
-    <td><b>19:10</b></td>
-    <td><b>80%</b></td>
-  </tr>
-</table>
-
 <details>
   <summary>
     <b>Wakatime Stats</b>
@@ -82,16 +56,3 @@
   </summary>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
 </details>
-
-<div align="right">
-  Last refreshed: <b>Tuesday, 3 January, 01:52 GMT+8</b>
-  <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
-  <details>
-    <summary>
-      <b>Credits</b>
-    </summary>
-    Dynamic README inspired by <b><i><a href="https://github.com/thmsgbrt/thmsgbrt">Thomas Guibert</a></i></b> and <b><i><a href="https://github.com/simonw/simonw">Simon Willison</a></i></b>
-    <br>Markdown Badges by <b><i><a href="https://github.com/Ileriayo/markdown-badges">Ileriayo Adebiyi</a></i></b>
-    <br>Weather Info by <b><i><a href="https://openweathermap.org/api">OpenWeather</a></i></b>
-  </details>
-</div>
