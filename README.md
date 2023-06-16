@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
 -->
 
-I'm Russell, a penultimate Data Science and Analytics student at the National University of Singapore!
+I'm Russell, a final year Data Science and Analytics student at the National University of Singapore!
 
 <h3>Reach me out 👍</h3>
 <p>
@@ -34,6 +34,11 @@ I'm Russell, a penultimate Data Science and Analytics student at the National Un
 </a>
 -->
 </p>
+
+<h3>Recent Github Activity ⚡</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p float="left">
   <a href="https://github.com/RussellDash332/">
