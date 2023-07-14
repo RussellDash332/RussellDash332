@@ -38,8 +38,8 @@ I'm Russell, a final year Data Science and Analytics student at the National Uni
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.5](https://github.com/v1.4.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-2. 🚀 Published release [v1.4.4](https://github.com/v1.4.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🚀 Published release [v1.4.5](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+2. 🚀 Published release [v1.4.4](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 3. 💪 Opened PR [#1](https://github.com/wSemis/GSST--anytime-guarenteed-search/pull/1) in [wSemis/GSST--anytime-guarenteed-search](https://github.com/wSemis/GSST--anytime-guarenteed-search)
 4. 🚀 Published release [v1.4.3](https://github.com/v1.4.3) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 5. 🚀 Published release [v1.4.2](https://github.com/v1.4.2) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
