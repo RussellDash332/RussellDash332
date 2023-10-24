@@ -38,11 +38,11 @@ I'm Russell, a final year Data Science and Analytics student at the National Uni
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2023-pre](https://github.com/RussellDash332/advent-of-code/releases/tag/2023-pre) in [RussellDash332/advent-of-code](https://github.com/RussellDash332/advent-of-code)
-2. 🗣 Commented on [#227](https://github.com/nus-cs2103-AY2324S1/forum/issues/227#issuecomment-1741530331) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
-3. 🗣 Commented on [#205](https://github.com/nus-cs2103-AY2324S1/forum/issues/205#issuecomment-1732645426) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
-4. 🚀 Published release [v1.4.8](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.8) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-5. ❗ Opened issue [#1](https://github.com/healtermon/cs1010s/issues/1) in [healtermon/cs1010s](https://github.com/healtermon/cs1010s)
+1. 🚀 Published release [v1.4.9](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.9) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+2. 🚀 Published release [2023-pre](https://github.com/RussellDash332/advent-of-code/releases/tag/2023-pre) in [RussellDash332/advent-of-code](https://github.com/RussellDash332/advent-of-code)
+3. 🗣 Commented on [#227](https://github.com/nus-cs2103-AY2324S1/forum/issues/227#issuecomment-1741530331) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+4. 🗣 Commented on [#205](https://github.com/nus-cs2103-AY2324S1/forum/issues/205#issuecomment-1732645426) in [nus-cs2103-AY2324S1/forum](https://github.com/nus-cs2103-AY2324S1/forum)
+5. 🚀 Published release [v1.4.8](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.8) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
 
 <p float="left">
