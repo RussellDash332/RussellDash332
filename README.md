@@ -38,9 +38,9 @@ I'm Russell, a final year Data Science and Analytics student at the National Uni
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5](https://github.com/RussellDash332/autokattis/releases/tag/v1.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-2. 💪 Opened PR [#1801](https://github.com/Bogdanp/awesome-advent-of-code/pull/1801) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-3. 🚀 Published release [v1.4.11](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.11) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🚀 Published release [v1.6](https://github.com/RussellDash332/autokattis/releases/tag/v1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+2. 🚀 Published release [v1.5](https://github.com/RussellDash332/autokattis/releases/tag/v1.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+3. 💪 Opened PR [#1801](https://github.com/Bogdanp/awesome-advent-of-code/pull/1801) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 4. 🚀 Published release [v1.4.10](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.10) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 5. 🚀 Published release [v1.4.8](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.8) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
