@@ -38,11 +38,11 @@ I'm Russell, a final year Data Science and Analytics student at the National Uni
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.3](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.3) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-2. 🚀 Published release [v1.6.2](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.2) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-3. 🚀 Published release [v1.6.1](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.1) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-4. 🚀 Published release [v1.6](https://github.com/RussellDash332/autokattis/releases/tag/v1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-5. 🚀 Published release [v1.4.8](https://github.com/RussellDash332/autokattis/releases/tag/v1.4.8) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🚀 Published release [v1.6.4](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+2. 🚀 Published release [v1.6.3](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.3) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+3. 🚀 Published release [v1.6.2](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.2) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+4. 🚀 Published release [v1.6.1](https://github.com/RussellDash332/autokattis/releases/tag/v1.6.1) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+5. 🚀 Published release [v1.6](https://github.com/RussellDash332/autokattis/releases/tag/v1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
 
 <p float="left">
