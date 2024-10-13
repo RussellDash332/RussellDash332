@@ -25,11 +25,11 @@ I'm Russell, a fresh graduate in Data Science and Analytics from the National Un
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.1](https://github.com/RussellDash332/autokattis/releases/tag/v2.0.1) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-2. 🎉 Merged PR [#4](https://github.com/RussellDash332/CS2030/pull/4) in [RussellDash332/CS2030](https://github.com/RussellDash332/CS2030)
-3. 🗣 Commented on [#3](https://github.com/RussellDash332/autokattis/issues/3#issuecomment-2407919404) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-4. 🚀 Published release [v2.0](https://github.com/RussellDash332/autokattis/releases/tag/v2.0) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-5. 🗣 Commented on [#3](https://github.com/RussellDash332/autokattis/issues/3#issuecomment-2338504316) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🗣 Commented on [#34](https://github.com/Kattis/kattis-cli/issues/34#issuecomment-2408610978) in [Kattis/kattis-cli](https://github.com/Kattis/kattis-cli)
+2. 💪 Opened PR [#49](https://github.com/Kattis/kattis-cli/pull/49) in [Kattis/kattis-cli](https://github.com/Kattis/kattis-cli)
+3. 🚀 Published release [v2.0.1](https://github.com/RussellDash332/autokattis/releases/tag/v2.0.1) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+4. 🎉 Merged PR [#4](https://github.com/RussellDash332/CS2030/pull/4) in [RussellDash332/CS2030](https://github.com/RussellDash332/CS2030)
+5. 🗣 Commented on [#3](https://github.com/RussellDash332/autokattis/issues/3#issuecomment-2407919404) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
 
 <details>
