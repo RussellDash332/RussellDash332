@@ -25,7 +25,7 @@ I'm Russell, a fresh graduate in Data Science and Analytics from the National Un
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/RussellDash332/CS2030/pull/6#issuecomment-3477849897) in [RussellDash332/CS2030](https://github.com/RussellDash332/CS2030)
+1. 🗣 Commented on [#7](https://github.com/RussellDash332/CS2030/pull/7#issuecomment-3603199521) in [RussellDash332/CS2030](https://github.com/RussellDash332/CS2030)
 2. 🚀 Published release [v2.1.1](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.1) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 3. 🚀 Published release [v2.0.2](https://github.com/RussellDash332/autokattis/releases/tag/v2.0.2) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 4. 🗣 Commented on [#361](https://github.com/los-cocos/cocos/issues/361#issuecomment-2450527209) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
