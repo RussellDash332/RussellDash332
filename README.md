@@ -25,9 +25,9 @@ I'm Russell, a fresh graduate in Data Science and Analytics from the National Un
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Matistjati/kattis-problem-issues/issues/17#issuecomment-4598094560) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
-2. 🚀 Published release [v2.1.5](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-3. 🚀 Published release [v2.1.4](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.4) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🗣 Commented on [#51](https://github.com/Matistjati/kattis-problem-issues/issues/51#issuecomment-4834895941) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+2. ❗ Opened issue [#53](https://github.com/Matistjati/kattis-problem-issues/issues/53) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+3. 🗣 Commented on [#17](https://github.com/Matistjati/kattis-problem-issues/issues/17#issuecomment-4598094560) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
 4. 🗣 Commented on [#361](https://github.com/los-cocos/cocos/issues/361#issuecomment-2450527209) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
 5. ❗ Opened issue [#361](https://github.com/los-cocos/cocos/issues/361) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
 <!--END_SECTION:activity-->
