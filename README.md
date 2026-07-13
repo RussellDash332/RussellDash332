@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/kattis-problems/issue-tracker/issues/25) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-2. 🗣 Commented on [#56](https://github.com/Matistjati/kattis-problem-issues/issues/56#issuecomment-4933037765) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
-3. 🗣 Commented on [#19](https://github.com/Matistjati/kattis-problem-issues/issues/19#issuecomment-4877847826) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
-4. 🗣 Commented on [#51](https://github.com/Matistjati/kattis-problem-issues/issues/51#issuecomment-4834895941) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
-5. ❗ Opened issue [#53](https://github.com/Matistjati/kattis-problem-issues/issues/53) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+1. 🗣 Commented on [#56](https://github.com/Matistjati/kattis-problem-issues/issues/56#issuecomment-4933037765) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+2. 🗣 Commented on [#19](https://github.com/Matistjati/kattis-problem-issues/issues/19#issuecomment-4877847826) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+3. 🗣 Commented on [#51](https://github.com/Matistjati/kattis-problem-issues/issues/51#issuecomment-4834895941) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+4. ❗ Opened issue [#53](https://github.com/Matistjati/kattis-problem-issues/issues/53) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+5. ❗ Opened issue [#361](https://github.com/los-cocos/cocos/issues/361) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -80,11 +80,10 @@
   <summary>
     <b>Contribution Graph</b>
   </summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=RussellDash332&custom_title=My%20Contribution%20Graph&theme=react-dark&area=true&line=dd58c1&color=dd58c1"/></a>
 </details>
 
 <div align="right">
-  Last refreshed: <b>Thursday, 31 October, 06:00 GMT+8</b>
   <br>This README refreshes every 6 hours using <b><a href="https://github.com/features/actions">GitHub Actions</a></b> 🕒
   <details>
     <summary>
