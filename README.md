@@ -35,9 +35,9 @@
 
 <p float="left">
   <a href="https://github.com/RussellDash332/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=RussellDash332&count_private=true&hide_rank=false&show_icons=true&theme=react&include_all_commits=true&title_color=dd58c1&icon_color=dd58c1&custom_title=Russell's%20GitHub%20Stats" />
   <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RussellDash332&hide=jupyter%20notebook,html&langs_count=10&theme=react&layout=compact&exclude_repo=nusmods,russelldash332.github.io&title_color=dd58c1"/>
   -->
   </a>
 </p>
@@ -45,6 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#56](https://github.com/Matistjati/kattis-problem-issues/issues/56#issuecomment-4933037765) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+2. 🗣 Commented on [#19](https://github.com/Matistjati/kattis-problem-issues/issues/19#issuecomment-4877847826) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+3. 🗣 Commented on [#51](https://github.com/Matistjati/kattis-problem-issues/issues/51#issuecomment-4834895941) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+4. ❗ Opened issue [#53](https://github.com/Matistjati/kattis-problem-issues/issues/53) in [Matistjati/kattis-problem-issues](https://github.com/Matistjati/kattis-problem-issues)
+5. ❗ Opened issue [#361](https://github.com/los-cocos/cocos/issues/361) in [los-cocos/cocos](https://github.com/los-cocos/cocos)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
@@ -69,7 +74,7 @@
   <summary>
     <b>Wakatime Stats</b>
   </summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My%20Wakatime%20Stats"/></a>
+  <a href="https://github.com/anuraghazra/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=RussellDash332&layout=compact&theme=react&title_color=dd58c1&custom_title=My%20Wakatime%20Stats"/></a>
 </details>
 <details>
   <summary>
