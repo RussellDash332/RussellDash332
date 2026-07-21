@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/kattis-problems/issue-tracker/issues/44) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-2. ❗ Opened issue [#43](https://github.com/kattis-problems/issue-tracker/issues/43) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-3. ❗ Opened issue [#41](https://github.com/kattis-problems/issue-tracker/issues/41) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-4. ❗ Opened issue [#40](https://github.com/kattis-problems/issue-tracker/issues/40) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-5. ❗ Opened issue [#25](https://github.com/kattis-problems/issue-tracker/issues/25) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+1. ❗ Opened issue [#51](https://github.com/kattis-problems/issue-tracker/issues/51) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+2. ❗ Opened issue [#44](https://github.com/kattis-problems/issue-tracker/issues/44) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+3. ❗ Opened issue [#43](https://github.com/kattis-problems/issue-tracker/issues/43) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+4. ❗ Opened issue [#41](https://github.com/kattis-problems/issue-tracker/issues/41) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+5. ❗ Opened issue [#40](https://github.com/kattis-problems/issue-tracker/issues/40) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
