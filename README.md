@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#235](https://github.com/kattis-problems/issue-tracker/issues/235) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-2. 🗣 Commented on [#232](https://github.com/kattis-problems/issue-tracker/issues/232#issuecomment-5758704008) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-3. ❗ Opened issue [#232](https://github.com/kattis-problems/issue-tracker/issues/232) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-4. 🗣 Commented on [#224](https://github.com/kattis-problems/issue-tracker/issues/224#issuecomment-5744333974) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-5. 🔒 Closed issue [#224](https://github.com/kattis-problems/issue-tracker/issues/224) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+1. ❗ Opened issue [#236](https://github.com/kattis-problems/issue-tracker/issues/236) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+2. ❗ Opened issue [#235](https://github.com/kattis-problems/issue-tracker/issues/235) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+3. 🗣 Commented on [#232](https://github.com/kattis-problems/issue-tracker/issues/232#issuecomment-5758704008) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+4. ❗ Opened issue [#232](https://github.com/kattis-problems/issue-tracker/issues/232) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+5. 🗣 Commented on [#224](https://github.com/kattis-problems/issue-tracker/issues/224#issuecomment-5744333974) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
