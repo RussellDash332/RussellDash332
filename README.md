@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/RussellDash332/autokattis/issues/5#issuecomment-6382778631) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-2. 🔒 Closed issue [#5](https://github.com/RussellDash332/autokattis/issues/5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-3. 🚀 Published release [v2.1.6](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-4. 🗣 Commented on [#5](https://github.com/RussellDash332/autokattis/issues/5#issuecomment-6382252578) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-5. 🗣 Commented on [#6](https://github.com/RussellDash332/autokattis/pull/6#issuecomment-6381693450) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🚀 Published release [v2.1.7](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.7) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+2. 🗣 Commented on [#5](https://github.com/RussellDash332/autokattis/issues/5#issuecomment-6382778631) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+3. 🔒 Closed issue [#5](https://github.com/RussellDash332/autokattis/issues/5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+4. 🚀 Published release [v2.1.6](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+5. 🗣 Commented on [#5](https://github.com/RussellDash332/autokattis/issues/5#issuecomment-6382252578) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
