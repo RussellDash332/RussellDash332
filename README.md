@@ -45,11 +45,11 @@
 <h3>Recent Github Activity ⚡</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#302](https://github.com/kattis-problems/issue-tracker/issues/302) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
-2. 🚀 Published release [v2.1.7](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.7) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-3. 🗣 Commented on [#5](https://github.com/RussellDash332/autokattis/issues/5#issuecomment-6382778631) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-4. 🔒 Closed issue [#5](https://github.com/RussellDash332/autokattis/issues/5) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
-5. 🚀 Published release [v2.1.6](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.6) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
+1. 🗣 Commented on [#321](https://github.com/kattis-problems/issue-tracker/issues/321#issuecomment-6506592588) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+2. ❗ Opened issue [#321](https://github.com/kattis-problems/issue-tracker/issues/321) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+3. 🗣 Commented on [#127](https://github.com/kattis-problems/issue-tracker/issues/127#issuecomment-6503814761) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+4. ❗ Opened issue [#302](https://github.com/kattis-problems/issue-tracker/issues/302) in [kattis-problems/issue-tracker](https://github.com/kattis-problems/issue-tracker)
+5. 🚀 Published release [v2.1.7](https://github.com/RussellDash332/autokattis/releases/tag/v2.1.7) in [RussellDash332/autokattis](https://github.com/RussellDash332/autokattis)
 <!--END_SECTION:activity-->
 
 <h3>Singapore's Weather ⛅</h3>
